@@ -1,1 +1,1 @@
-# icms2-complaints
+# Жалобная книга - Компонент для InstantCMS 2
